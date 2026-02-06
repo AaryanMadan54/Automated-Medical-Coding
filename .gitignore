@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+venv/
+*.db
+old_dhs_codes_2026.json
+parse_codes.py
