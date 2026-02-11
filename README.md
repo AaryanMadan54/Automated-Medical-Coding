@@ -17,3 +17,6 @@
 
 <img width="935" height="394" alt="image" src="https://github.com/user-attachments/assets/4a891a24-5fdf-4da9-b869-c85d5b964c98" />
 
+### 32k+ CPT codes in the Database
+
+<img width="320" height="177" alt="image" src="https://github.com/user-attachments/assets/378b3d2c-8b87-42d0-81c5-babece706d7e" />
